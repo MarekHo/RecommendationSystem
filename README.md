@@ -1,7 +1,7 @@
 # RecommendationSystem
  Capstone project for the "Java Programming and Software Engineering Fundamentals" specialization which in offered by Duke University on Coursera.
  
-The application choose you 10 movie recommendadtion based on your rating that you give on the firts page. 
+The application is choosing 10 movie recommendation based on your rating that you give on the first page.
 
 Recommendation are calculated on an average weighted rating of other raters ratings with similar tastes.
 
